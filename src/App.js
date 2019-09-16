@@ -8,8 +8,8 @@ class App extends Component{
     super();
 
     this.state = {
-        monsters: [],
-        searchField:[]
+      monsters: [],
+      searchField:[]
     }
   }
 
